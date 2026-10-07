@@ -6,9 +6,9 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Welcome+to+my+digital+workshop!;Building+modern+web+%26+AI+solutions;Passion+for+clean+code+%26+performance;Always+learning%2C+always+growing.)](https://git.io/typing-svg)
 
   <p align="center">
+    <a href="https://kimsokun.github.io"><img src="https://img.shields.io/badge/Portfolio-Live_Site-00D26A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" /></a>
     <a href="https://github.com/KimSokun"><img src="https://img.shields.io/github/followers/KimSokun?label=Followers&style=for-the-badge&color=238636&logo=github" alt="Followers" /></a>
     <img src="https://komarev.com/ghpvc/?username=KimSokun&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-    <a href="https://github.com/KimSokun"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Profile" /></a>
   </p>
 
 </div>
@@ -27,6 +27,7 @@ status: Open to collaborations & exciting projects
 
 - 🔭 **Current Focus:** Crafting clean, scalable applications and exploring cutting-edge developer tools.
 - 🌱 **Continuous Learning:** Deepening knowledge in modern programming stacks and system design.
+- 🌐 **Live Portfolio:** Explore my website at **[kimsokun.github.io](https://kimsokun.github.io)**.
 - 💬 **Ask Me About:** Python, JavaScript, Git workflows, and front-end development.
 - 📬 **Reach Me:** Connect with me directly on **[GitHub](https://github.com/KimSokun)**.
 
@@ -81,9 +82,18 @@ status: Open to collaborations & exciting projects
 
 ---
 
+### 📈 Activity & Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimSokun&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
 ### 🤝 Let's Connect
 
 <div align="center">
+  <a href="https://kimsokun.github.io"><img src="https://img.shields.io/badge/Portfolio-kimsokun.github.io-00D26A?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/KimSokun"><img src="https://img.shields.io/badge/GitHub-KimSokun-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
