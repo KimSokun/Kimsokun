@@ -86,13 +86,6 @@ status: Open to collaborations & exciting projects
 
 ---
 
-### 📈 Activity & Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KimSokun&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
 
 ### 🐍 Contribution Snake
 
