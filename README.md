@@ -22,7 +22,6 @@ name: Kim Sokun
 role: Software Developer
 interests: [Web Development, Python Automation, AI Tools, 3D Design]
 learning: Modern Frameworks & Scalable Architectures
-location: Cambodia 🇰🇭
 status: Open to collaborations & exciting projects
 ```
 
