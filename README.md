@@ -1,5 +1,9 @@
 <div align="center">
 
+  <a href="https://kimsokun.github.io">
+    <img src="https://raw.githubusercontent.com/KimSokun/KimSokun.github.io/main/avatar.png" width="130" style="border-radius: 50%;" alt="Kim Sokun" />
+  </a>
+
   # ⚡ Kim Sokun
   ### Full-Stack Developer & Tech Explorer
 
