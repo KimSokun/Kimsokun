@@ -8,7 +8,7 @@
   <p align="center">
     <a href="https://github.com/KimSokun"><img src="https://img.shields.io/github/followers/KimSokun?label=Followers&style=for-the-badge&color=238636&logo=github" alt="Followers" /></a>
     <img src="https://komarev.com/ghpvc/?username=KimSokun&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-    <a href="mailto:jinwoo116688@gmail.com"><img src="https://img.shields.io/badge/Contact-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://github.com/KimSokun"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Profile" /></a>
   </p>
 
 </div>
@@ -28,7 +28,7 @@ status: Open to collaborations & exciting projects
 - 🔭 **Current Focus:** Crafting clean, scalable applications and exploring cutting-edge developer tools.
 - 🌱 **Continuous Learning:** Deepening knowledge in modern programming stacks and system design.
 - 💬 **Ask Me About:** Python, JavaScript, Git workflows, and front-end development.
-- 📬 **Reach Me:** Feel free to connect via **[jinwoo116688@gmail.com](mailto:jinwoo116688@gmail.com)**.
+- 📬 **Reach Me:** Connect with me directly on **[GitHub](https://github.com/KimSokun)**.
 
 ---
 
@@ -84,8 +84,7 @@ status: Open to collaborations & exciting projects
 ### 🤝 Let's Connect
 
 <div align="center">
-  <a href="mailto:jinwoo116688@gmail.com"><img src="https://img.shields.io/badge/Email-jinwoo116688%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/KimSokun"><img src="https://img.shields.io/badge/GitHub-KimSokun-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/KimSokun"><img src="https://img.shields.io/badge/GitHub-KimSokun-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br/>
