@@ -1,41 +1,73 @@
 <div align="center">
 
-  # Hi, I'm Kim Sokun 👋
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Software+Developer;Building+awesome+projects;Continuous+Learner)](https://git.io/typing-svg)
+  # ⚡ Kim Sokun
+  ### Full-Stack Developer & Tech Explorer
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Welcome+to+my+digital+workshop!;Building+modern+web+%26+AI+solutions;Passion+for+clean+code+%26+performance;Always+learning%2C+always+growing.)](https://git.io/typing-svg)
 
   <p align="center">
-    <a href="https://github.com/KimSokun"><img src="https://img.shields.io/github/followers/KimSokun?label=Followers&style=for-the-badge&color=238636" alt="Followers" /></a>
+    <a href="https://github.com/KimSokun"><img src="https://img.shields.io/github/followers/KimSokun?label=Followers&style=for-the-badge&color=238636&logo=github" alt="Followers" /></a>
+    <img src="https://komarev.com/ghpvc/?username=KimSokun&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+    <a href="mailto:jinwoo116688@gmail.com"><img src="https://img.shields.io/badge/Contact-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-- 🔭 I’m currently building and exploring new technologies.
-- 🌱 I’m constantly learning modern programming languages & software tools.
-- 💬 Ask me about web development, programming, and software engineering.
-- 📫 Connect with me: **[GitHub Profile](https://github.com/KimSokun)**
+```yaml
+name: Kim Sokun
+role: Software Developer
+interests: [Web Development, Python Automation, AI Tools, 3D Design]
+learning: Modern Frameworks & Scalable Architectures
+location: Cambodia 🇰🇭
+status: Open to collaborations & exciting projects
+```
+
+- 🔭 **Current Focus:** Crafting clean, scalable applications and exploring cutting-edge developer tools.
+- 🌱 **Continuous Learning:** Deepening knowledge in modern programming stacks and system design.
+- 💬 **Ask Me About:** Python, JavaScript, Git workflows, and front-end development.
+- 📬 **Reach Me:** Feel free to connect via **[jinwoo116688@gmail.com](mailto:jinwoo116688@gmail.com)**.
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack & Specialties
 
-<p align="center">
+<div align="center">
+
+#### 💻 Programming Languages
+<p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+#### 🌐 Frameworks & Environments
+<p>
+  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+#### ⚙️ Developer Tools & Creative
+<p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
+</div>
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KimSokun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -50,6 +82,15 @@
 
 ---
 
+### 🤝 Let's Connect
+
 <div align="center">
-  <sub>⭐️ Built by Kim Sokun | Thanks for stopping by!</sub>
+  <a href="mailto:jinwoo116688@gmail.com"><img src="https://img.shields.io/badge/Email-jinwoo116688%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/KimSokun"><img src="https://img.shields.io/badge/GitHub-KimSokun-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>✨ Designed with care & code | Kim Sokun</sub>
 </div>

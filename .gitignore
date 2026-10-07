@@ -1,0 +1,4 @@
+# Ignore sensitive credentials
+token.txt
+*.token
+.env
