@@ -2,3 +2,6 @@
 token.txt
 *.token
 .env
+
+# Separate project directories
+News_kh/
