@@ -94,6 +94,16 @@ status: Open to collaborations & exciting projects
 
 ---
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KimSokun/Kimsokun/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KimSokun/Kimsokun/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/KimSokun/Kimsokun/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+---
+
 ### 🤝 Let's Connect
 
 <div align="center">
